@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Tushar-s/static/css/main.5437e677.chunk.css",
+    "main.js": "/TextUtils-Tushar-s/static/js/main.ec75d619.chunk.js",
+    "main.js.map": "/TextUtils-Tushar-s/static/js/main.ec75d619.chunk.js.map",
+    "runtime-main.js": "/TextUtils-Tushar-s/static/js/runtime-main.e943dc81.js",
+    "runtime-main.js.map": "/TextUtils-Tushar-s/static/js/runtime-main.e943dc81.js.map",
+    "static/js/2.bb001e6a.chunk.js": "/TextUtils-Tushar-s/static/js/2.bb001e6a.chunk.js",
+    "static/js/2.bb001e6a.chunk.js.map": "/TextUtils-Tushar-s/static/js/2.bb001e6a.chunk.js.map",
+    "static/js/3.9f209dfc.chunk.js": "/TextUtils-Tushar-s/static/js/3.9f209dfc.chunk.js",
+    "static/js/3.9f209dfc.chunk.js.map": "/TextUtils-Tushar-s/static/js/3.9f209dfc.chunk.js.map",
+    "index.html": "/TextUtils-Tushar-s/index.html",
+    "static/css/main.5437e677.chunk.css.map": "/TextUtils-Tushar-s/static/css/main.5437e677.chunk.css.map",
+    "static/js/2.bb001e6a.chunk.js.LICENSE.txt": "/TextUtils-Tushar-s/static/js/2.bb001e6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e943dc81.js",
+    "static/js/2.bb001e6a.chunk.js",
+    "static/css/main.5437e677.chunk.css",
+    "static/js/main.ec75d619.chunk.js"
+  ]
+}
